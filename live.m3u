@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="**** KOMBETARE ****" tvg-logo="" group-title="KOMBETARE & LOKALE",**** KOMBETARE ****
+http://ksportiptv.com:1557/live/cg20avgust/AZ82epScYZ/829.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AL: RTK SAT" tvg-logo="http://ksportusa.com/edocs/ksport_largek_blk.jpg" group-title="KOMBETARE & LOKALE",AL: RTK SAT
+http://ksportiptv.com:1557/live/cg20avgust/AZ82epScYZ/1345.ts
+#EXTINF:-1 tvg-ID="RTK" tvg-name="AL: RTK 1" tvg-logo="http://www.tv14.net/wp-content/uploads/2010/09/RTK.jpg" group-title="KOMBETARE & LOKALE",AL: RTK 1
+http://ksportiptv.com:1557/live/cg20avgust/AZ82epScYZ/1042.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AL: RTK 2" tvg-logo="http://diasporatv.com/uploads/dtv-channel-rtk2.png" group-title="KOMBETARE & LOKALE",AL: RTK 2
+http://ksportiptv.com:1557/live/cg20avgust/AZ82epScYZ/1043.ts
+#EXTINF:-1 tvg-ID="" tvg-name="AL: RTK 3" tvg-logo="http://s7.postimg.org/cm13ozzef/Logo_RTK3_03.jpg" group-title="KOMBETARE & LOKALE",AL: RTK 3
+http://ksportiptv.com:1557/live/cg20avgust/AZ82epScYZ/1044.ts
